@@ -17,9 +17,9 @@ namespace SimpleCalculator
             Console.Write("Input using Read() - ");
             userInput = Console.Read();
             Console.ReadLine();
-            Console.WriteLine("Ascii Value = {0}", userInput);
+            Console.WriteLine("Integer Value = {0}", userInput);
             Console.ReadLine();
 
         }
     }
-}
+}er
